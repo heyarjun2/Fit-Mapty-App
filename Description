@@ -1,0 +1,5 @@
+This app is made with the help of Jonas Schedtman to work on topics such as OOP and modern javascript syntax both in the implementation of priority properties and the use of bid to use functions within the methods of a particular class and to access the properties of this class, without breaking the code.
+
+We also implemented a library to use a map-type canvas and the browser API to take the user's current coordinates to paint the pieces of training on that map.
+
+in summary, this app is full of amir and many crazy things, you must open it from the Google browser because this syntax of private properties is not available in other browsers.
